@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See the repository](https://github.com/ikitamalarose/four-card-feature-section-master-challenge.git)
-- Live Site URL: [Go to the site](https://four-card-feature-section-master-challenge-omega.vercel.app/)
+- Solution URL: [See the repository](https://github.com/ikitamalarose/testimonials-grid-section-challenge.git)
+- Live Site URL: [Go to the site](https://testimonials-grid-section-challenge-ten.vercel.app/)
 
 ## My process
 
